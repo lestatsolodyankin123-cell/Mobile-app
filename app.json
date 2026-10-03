@@ -18,6 +18,11 @@
         "backgroundColor": "#ffffff"
       }
     },
+    "extra": {
+      "eas": {
+        "projectId": "56b139d7-aeb9-411d-b9db-430a25829f60"
+      }
+    },
     "plugins": [
       [
         "expo-splash-screen",
